@@ -1,0 +1,119 @@
+#top-header
+{
+	background-color: #04B7F9;
+	margin: 0;
+	padding:0;
+
+
+}
+.heading-top a
+{
+	color: #000;
+
+}
+.heading-top a:nth-child(1)
+{
+ border-right: 2px solid black;
+
+}
+.heading-top :nth-child(2)
+{
+	border-right: 2px solid black;
+}
+.heading-top2
+{
+	padding-left: 250px;
+}
+.heading-top2 a:nth-child(1)
+{
+	color: #0A23F4;
+}
+.heading-top2 a:nth-child(2)
+{
+	color: #F40A5F;
+}
+.heading-top2 a:nth-child(3)
+{
+	color: blue;
+}
+.heading-top2 a:nth-child(4)
+{
+	color: blue;
+}
+.social-icons
+{
+	font-weight: bold;
+	font-family: 'IM Fell Great Primer SC', serif;
+}
+#top-header2
+{
+left: 0;
+
+}
+
+
+.page-footer
+{
+	transition: opacity 300ms ease-in-out 1s;
+}
+@media (max-width: 920px)
+{
+	#top-header
+{
+	background-color: #04B7F9;
+	margin: 0;
+	padding:0;
+
+
+}
+.heading-top a
+{
+	color: #000;
+
+}
+.heading-top a:nth-child(1)
+{
+ border-right: 2px solid black;
+
+}
+.heading-top :nth-child(2)
+{
+	border-right: 2px solid black;
+}
+.heading-top2
+{
+	padding-left: 250px;
+}
+.heading-top2 a:nth-child(1)
+{
+	color: #0A23F4;
+}
+.heading-top2 a:nth-child(2)
+{
+	color: #F40A5F;
+}
+.heading-top2 a:nth-child(3)
+{
+	color: blue;
+}
+.heading-top2 a:nth-child(4)
+{
+	color: blue;
+}
+.social-icons
+{
+	font-weight: bold;
+	font-family: 'IM Fell Great Primer SC', serif;
+}
+#top-header2
+{
+left: 0;
+
+}
+
+}
+ #service .container p
+  {
+    padding-top: 50px;
+   
+  }
